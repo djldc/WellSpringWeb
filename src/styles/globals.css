@@ -1703,9 +1703,8 @@ select.form-control {
 
 /* ========== ADMIN DASHBOARD ========== */
 .admin-layout {
-  display: grid;
-  grid-template-columns: 260px 1fr;
   min-height: 100vh;
+  position: relative;
 }
 
 .admin-sidebar {
@@ -2281,9 +2280,8 @@ select.form-control {
   .portal-grid { grid-template-columns: 1fr; }
   .team-grid { grid-template-columns: 1fr; }
 
-  .admin-layout { grid-template-columns: 1fr; }
   .admin-sidebar { display: none; }
-  .admin-main { margin-left: 0; }
+  .admin-main { margin-left: 0; width: 100%; }
   .admin-cards { grid-template-columns: 1fr; }
 }
 
