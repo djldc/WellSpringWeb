@@ -101,7 +101,7 @@ export default function HomePage() {
               <span className="dot"></span>
               Now Accepting New Clients
             </div>
-            <h1>Websites That <span className="highlight">Grow</span> Your Practice</h1>
+            <h1>Websites That <span className="highlight">Elevate</span> Your Practice</h1>
             <p className="hero-text">
               We design and build stunning, conversion-focused websites tailored for{' '}
               <strong className="typing-text" style={{ color: 'var(--primary)' }}>{typingText}</strong>
