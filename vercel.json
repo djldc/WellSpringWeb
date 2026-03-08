@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://chiro.wellspringweb.com",
+      "permanent": true
+    }
+  ]
+}
